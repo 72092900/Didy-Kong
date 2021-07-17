@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/jungla.mp3-3fa1e69681addf34acf24d306c691a9c.mp3str"
+
+[deps]
+
+source_file="res://audio/jungla.mp3"
+dest_files=[ "res://.import/jungla.mp3-3fa1e69681addf34acf24d306c691a9c.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
